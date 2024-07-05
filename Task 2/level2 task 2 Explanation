@@ -1,0 +1,15 @@
+Task Overview:The task was to design a web page dedicated to someone I admire, incorporating text, images, and a visually appealing layout.
+ 
+ My Approach & Solution:
+Designing the Structure:-
+Used HTML to structure the page with sections for introduction, biography, images, and quotes.
+Added appropriate paragraphs to provide a comprehensive narrative about the person.
+Styling the Page:-
+Utilized CSS to style the text with different font styles to make the content engaging.
+Applied background colors and images to enhance the visual appeal.
+Used CSS Flexbox and Grid for a responsive and well-aligned layout.
+
+Results & Learnings:
+Successfully built a visually appealing and informative tribute page.
+Enhanced my skills in HTML structuring and CSS styling.
+Learned to create responsive layouts using CSS Flexbox and Grid.
