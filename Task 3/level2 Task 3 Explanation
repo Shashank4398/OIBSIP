@@ -1,0 +1,26 @@
+Task Overview:
+The goal was to create a web app where users can add new tasks, mark them as complete, and view them in separate lists for pending and completed tasks. Additionally, users should be able to edit or delete tasks.
+
+My Approach & Solution:
+Structuring the App:-
+HTML: Designed the structure with sections for adding tasks, and displaying pending and completed tasks.
+CSS: Styled the app for a clean and user-friendly interface.
+Implementing Functionality:-
+JavaScript:
+Added functionality to create new tasks with a form.
+Implemented event listeners to add tasks to the pending list.
+Enabled marking tasks as complete, moving them to the completed list.
+Allowed editing and deleting of tasks from both lists.
+Included date and time stamps for tasks upon creation and completion.
+Managing Lists:
+Created separate sections for Pending Tasks and Completed Tasks.
+Ensured the main to-do list displays all tasks, categorized accordingly.
+Enhancing Usability:
+Added input validation to prevent empty tasks from being added.
+Styled completed tasks differently for clear visual distinction.
+Incorporated responsive design principles for usability on various devices.
+
+Results & Learnings:
+Built a functional and user-friendly to-do app.
+Gained deeper insights into DOM manipulation and event handling in JavaScript.
+Improved skills in structuring and styling web applications with HTML and CSS.
