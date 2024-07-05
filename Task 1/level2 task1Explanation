@@ -1,0 +1,22 @@
+Task Overview:
+The goal was to create a calculator with basic mathematical functionalities, including addition, subtraction, multiplication, and division.
+
+My Approach & Solution:
+->Designing the Interface:
+Used HTML to create the structure of the calculator.
+Implemented CSS Grid to align the buttons and create a visually appealing layout.
+Styled the display screen for input and result visibility.
+
+->Interactive Functionality:
+Utilized JavaScript to add eventListeners for button clicks.
+Employed if-else statements and switch cases to handle different operations.
+Implemented operators to perform the calculations.
+Incorporated loops for handling complex input sequences.
+
+->Testing & Refinement:
+Tested the calculator for various inputs to ensure accurate results.
+Refined the user interface and experience based on feedback and testing.
+
+ Results & Learnings: Successfully built a calculator that performs all basic operations.
+Gained deeper insights into the use of JavaScript for interactive web elements.
+Enhanced my skills in using CSS Grid for layout management.
