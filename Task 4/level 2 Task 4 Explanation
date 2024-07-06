@@ -1,1 +1,22 @@
+Features:
+User Registration: New users can register with a unique username and password.
+Password Hashing: Passwords are hashed before storage (using a mock hashing function for demonstration purposes).
+User Login: Registered users can log in with their credentials.
+Data Persistence: User data is stored and retrieved using localStorage, ensuring persistence across sessions.
+Form Validation: Basic validation to check if a username already exists during registration.
+
+Technologies Used:
+HTML & CSS: For building and styling the user interface.
+JavaScript: For handling user interactions, form submissions, and data storage.
+LocalStorage: For persisting user data across page reloads.
+Code Overview:
+User Registration: The system captures the username and password, hashes the password, checks for existing usernames, and stores the new user data in localStorage.
+User Login: The system verifies the username and password against stored user data and grants access upon successful authentication.
+
+Learning Points:
+Understanding the basics of user authentication and form handling.
+Implementing data persistence using browser localStorage.
+Basic password hashing and verification (Note: In a production environment, use robust hashing algorithms like bcrypt).
+This project not only solidified my understanding of frontend development but also provided practical experience with user authentication mechanisms. I'm looking forward to expanding this project further by integrating more advanced features and enhancing security.
+
 
